@@ -14,5 +14,6 @@
             "targetType": "library",
             "sourcePaths": ["."]
         }
-    ]
+    ],
+    "libs": ["openmpi"]
 }
