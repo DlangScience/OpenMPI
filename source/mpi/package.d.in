@@ -28,6 +28,8 @@ import core.stdc.config;
 
 extern (C):
 
+nothrow @nogc:
+
 // BEGIN AUTO
 
 // END AUTO
